@@ -1,0 +1,17 @@
+{
+    "prettier.enable": false,
+    "editor.formatOnSave": false,
+    "editor.formatOnPaste": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": "explicit"
+    },
+    "editor.quickSuggestions": {
+        "strings": "on"
+    },
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "i18n-ally.localesPaths": [
+        "src/messages"
+    ]
+}

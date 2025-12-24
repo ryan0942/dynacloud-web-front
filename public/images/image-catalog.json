@@ -1,0 +1,274 @@
+{
+  "hero": [
+    {
+      "src": "https://images.unsplash.com/photo-1581092918056-0c4c3acd3789",
+      "alt": "Modern tech workspace with digital devices",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158",
+      "alt": "Digital transformation concept with glowing network",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1581092335878-2d9ff86ca2bf",
+      "alt": "IT professional working on advanced technology",
+      "width": 1920,
+      "height": 1080
+    }
+  ],
+  "team": [
+    {
+      "src": "https://images.unsplash.com/photo-1522071820081-009f0129c71c",
+      "alt": "Diverse team collaborating in modern office",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf",
+      "alt": "Professional IT team in meeting",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1600880292089-90a7e086ee0c",
+      "alt": "Tech professionals collaborating on project",
+      "width": 1200,
+      "height": 800
+    }
+  ],
+  "teamMembers": [
+    {
+      "src": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
+      "alt": "John Smith - CEO",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2",
+      "alt": "Sarah Johnson - CTO",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "alt": "Michael Chen - Design Director",
+      "width": 400,
+      "height": 400
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1580489944761-15a19d654956",
+      "alt": "Emily Rodriguez - Marketing Head",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "services": [
+    {
+      "src": "https://images.unsplash.com/photo-1581092160607-ee22731c2eaf",
+      "alt": "Mobile & Web Development",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1460925895917-afdab827c52f",
+      "alt": "Digital Marketing",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c",
+      "alt": "UX/UI Development",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2",
+      "alt": "AR & VR",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1614064641938-3bbee52942c7",
+      "alt": "Cloud Computing",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1563986768609-322da13575f3",
+      "alt": "Cybersecurity",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "caseStudies": [
+    {
+      "src": "https://images.unsplash.com/photo-1551288049-bebda4e38f71",
+      "alt": "FinTech App Redesign & Development",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1576091160550-2173dba999ef",
+      "alt": "Healthcare Patient Management Platform",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d",
+      "alt": "E-Commerce Digital Transformation",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1488229297570-58520851e868",
+      "alt": "AI-Powered Recommendation Engine",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1494412574643-ff11b0a5c1c3",
+      "alt": "Supply Chain Optimization System",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1573164713988-8665fc963095",
+      "alt": "Smart City Infrastructure Management",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+      "alt": "Enterprise Cybersecurity Platform",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "blog": [
+    {
+      "src": "https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3",
+      "alt": "The Future of AI in Business Operations",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b",
+      "alt": "5 Practical Machine Learning Applications",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1451187580459-43490279c0fa",
+      "alt": "Balancing Innovation and Privacy in AI Development",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "alt": "A Step-by-Step Guide to Implementing AI",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1531297484001-80022131f5a1",
+      "alt": "How AI is Reshaping the Future of Work",
+      "width": 800,
+      "height": 600
+    }
+  ],
+  "partners": [
+    {
+      "src": "/images/brand-1.png",
+      "alt": "Contentful",
+      "width": 200,
+      "height": 80
+    },
+    {
+      "src": "/images/brand-2.svg",
+      "alt": "Culture Amp",
+      "width": 200,
+      "height": 80
+    },
+    {
+      "src": "/images/brand-3.png",
+      "alt": "Dropbox",
+      "width": 250,
+      "height": 120
+    },
+    {
+      "src": "/images/brand-4.png",
+      "alt": "Airtable",
+      "width": 250,
+      "height": 120
+    },
+    {
+      "src": "/images/brand-5.png",
+      "alt": "Razorpay",
+     "width": 250,
+      "height": 120
+    }
+  ],
+  "clients": [
+    {
+      "src": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+      "alt": "Sarah Johnson - CEO, TechStart",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+      "alt": "Carlos Mendez - CTO, InnovateCorp",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d",
+      "alt": "Robert Lee - Marketing Director, GrowthX",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1573497019940-1c28c88b4f3e",
+      "alt": "Jennifer Chen - Product Manager, AppWorks",
+      "width": 100,
+      "height": 100
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1560250097-0b93528c311a",
+      "alt": "Michael Rodriguez - COO, Enterprise Solutions",
+      "width": 100,
+      "height": 100
+    }
+  ],
+  "support": [
+    {
+      "src": "https://images.unsplash.com/photo-1534536281715-e28d76689b4d",
+      "alt": "24/7 Customer Support",
+      "width": 400,
+      "height": 400
+    }
+  ],
+  "abstract": [
+    {
+      "src": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+      "alt": "Abstract technology pattern",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5",
+      "alt": "Digital code abstract",
+      "width": 1200,
+      "height": 800
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1504639725590-34d0984388bd",
+      "alt": "Technology connections",
+      "width": 1200,
+      "height": 800
+    }
+  ]
+}

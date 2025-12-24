@@ -1,0 +1,19 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "WebSearch",
+      "WebFetch(domain:developers.google.com)",
+      "Bash(cat:*)",
+      "Bash(pnpm build:*)",
+      "Bash(pnpm add:*)",
+      "WebFetch(domain:ckeditor.com)",
+      "Bash(pnpm lint:*)",
+      "Bash(timeout 10 pnpm dev:*)",
+      "Bash(pkill:*)",
+      "Bash(touch:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
