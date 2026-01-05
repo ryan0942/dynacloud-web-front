@@ -1,9 +1,9 @@
 import { getBanners } from "@/actions/banners";
 
 /** 取得首頁 Banner query */
-export const getBannersQuery = () => {
+export const getBannersQuery = (locale: string) => {
   return {
-    queryKey: ["banners"],
+    queryKey: ["banners", locale],
     queryFn: () => getBanners(),
   };
 };

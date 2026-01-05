@@ -2,6 +2,7 @@
 
 import { useQuery } from "@tanstack/react-query";
 import { ChevronLeft, ChevronRight } from "lucide-react";
+import { useLocale } from "next-intl";
 import Image from "next/image";
 import { useCallback, useEffect, useRef, useState } from "react";
 import type { Swiper as SwiperType } from "swiper";
@@ -23,9 +24,10 @@ export function Banner() {
   const containerRef = useRef<HTMLDivElement>(null);
   const [isVisible, setIsVisible] = useState(false);
   const [activeIndex, setActiveIndex] = useState(0);
+  const locale = useLocale();
 
   /** 取得資料 */
-  const { data } = useQuery(getBannersQuery());
+  const { data } = useQuery(getBannersQuery(locale));
   const banners = data?.result ?? [];
 
   /** 清除計時器 */
