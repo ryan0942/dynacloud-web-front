@@ -80,7 +80,7 @@ export default async function HomePage() {
   /** 取得資料 - 參數必須與 client component 完全一致以確保 hydration 正確 */
   const queryClient = new QueryClient();
   await Promise.all([
-    queryClient.prefetchQuery(getBannersQuery()),
+    queryClient.prefetchQuery(getBannersQuery(locale)),
     queryClient.prefetchQuery(
       getServicesQuery(locale, { categoryId: "", limit: 10, page: 1 }),
     ),
